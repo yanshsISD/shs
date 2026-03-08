@@ -1,14 +1,9 @@
 # SHS ISD Suite
 
-## Description
-The SHS ISD Suite is a comprehensive solution designed to enhance the management and administration of the Senior High School Integrated School Development Program. It aims to streamline processes and improve communication within the school.
-
 ## Features
-- **User-friendly interface**: Easy navigation for users of all levels.
-- **Real-time updates**: Stay informed with the latest changes and notifications.
-- **Cross-platform compatibility**: Access the suite from any device.
-- **Comprehensive reporting tools**: Generate detailed reports for analysis.
+- **3D Animations**: Engage with immersive 3D animations that enhance the user experience.
+- **Classic Mode**: Experience the core functionalities in a classic interface that emphasizes usability.
+- **Penetration Testing Features**: Tools designed to assess security vulnerabilities.
 
 ## Contact Information
-- **Email**: [shssuite@gmail.com](mailto:shssuite@gmail.com)
-- **Telegram**: [t.me/shssuite](https://t.me/shssuite)
+For support and inquiries, please contact us at support@shsisd.org.
